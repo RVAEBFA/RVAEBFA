@@ -1,0 +1,2 @@
+dataset,accuracy,precision,recall,f_scall
+arrhythmia,0.7455,0.6164,0.6258,0.6211

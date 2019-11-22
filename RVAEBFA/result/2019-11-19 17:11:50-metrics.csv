@@ -1,0 +1,2 @@
+dataset,accuracy,precision,recall,f_scall
+pendigits,0.5897,0.3868,0.3942,0.3905

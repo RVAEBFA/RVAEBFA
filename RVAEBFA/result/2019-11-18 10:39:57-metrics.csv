@@ -1,0 +1,2 @@
+dataset,accuracy,precision,recall,f_scall
+MNIST,0.6989,0.5474,0.5584,0.5529

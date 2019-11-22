@@ -1,0 +1,2 @@
+dataset,accuracy,precision,recall,f_scall
+musk,0.9599,0.9309,0.9501,0.9404
